@@ -41,6 +41,7 @@ export const App = () => {
       <button className='button' onClick={handlePost}>
         田村三郎を追加
       </button>
+      <br/>
       <button className='button' onClick={handleGet}>
         ユーザー一覧を取得
       </button>
